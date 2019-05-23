@@ -1,6 +1,0 @@
-[
-    {
-        "url": "https://raw.githubusercontent.com/yknivag/kodi.TNPlater.data/WitneyTN.plx",
-        "name": "Witney Talking News"
-    }
-]
