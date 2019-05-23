@@ -5,7 +5,7 @@ title=Witney Talking News
 type=music
 name=Latest Edition
 thumb=https://media.wtn.org.uk/images/WTN_Logo.png
-URL=https://media.wtn.org.uk/playlists/edition/latest.strm
+URL=https://media.wtn.org.uk/playlists/edition/latest.m3u
 #
 type=music
 name=Last Edition
