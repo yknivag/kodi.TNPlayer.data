@@ -8,7 +8,7 @@ thumb=https://media.wtn.org.uk/images/WTN_Logo.png
 URL=https://media.wtn.org.uk/playlists/edition/latest.m3u
 #
 type=playlist
-name=Last Week's Edition
+name=Last Edition
 thumb=https://media.wtn.org.uk/images/WTN_Logo.png
 URL=https://media.wtn.org.uk/playlists/edition/prior1.m3u
 #
